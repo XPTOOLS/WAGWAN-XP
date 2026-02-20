@@ -10,9 +10,7 @@
 
 </div>
 
-WAGWAN-XP is a WhatsApp MD bot built on top of the **Baileys** library.  
-It’s designed to be fast, lightweight, and easy to customize without touching the core code.    
-All commands and the overall structure are written in a way that makes customization (bot image, prefix, name, features, etc.) as easy as possible.
+WAGWAN-XP is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 ---
 
