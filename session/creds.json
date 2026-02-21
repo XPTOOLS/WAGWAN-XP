@@ -2,52 +2,52 @@
   "noiseKey": {
     "private": {
       "type": "Buffer",
-      "data": "IGq7RYr1a0bqZsNIUOtvBXEh2bUGiVIgTHDHsHo7nH8="
+      "data": "WITq1rxzqRHwzZRGmdzJsYCr1xynYkCRG9K/s2Y//1U="
     },
     "public": {
       "type": "Buffer",
-      "data": "4E/FRKu7xNhJ03uQ9F2Mh/aR/gjPmQ41+SEL1r51XVM="
+      "data": "YfDv97hys88pybRHx45bEmWsOphbtGJGqOHh+eDf2VM="
     }
   },
   "pairingEphemeralKeyPair": {
     "private": {
       "type": "Buffer",
-      "data": "IN82pJdE2eOMNDdLE0iYkKtpkAL58XhD4RK2P77sQHo="
+      "data": "yNyh4zpIo3oB8qIzTyQZlZzKRmNbgNaGgz4M2yMwp04="
     },
     "public": {
       "type": "Buffer",
-      "data": "DEJH28PGVLO5dHkLWM7Y5euj9nf6ElQds0jtzFe14UI="
+      "data": "ausTbAjw/T4rbQbp2DVX+K2oMh8HHsRCPLO/9FPgb2Y="
     }
   },
   "signedIdentityKey": {
     "private": {
       "type": "Buffer",
-      "data": "2NMfszdro6S5BLynKWbB8wE8qDBJdnuNM3fLdCUg+XM="
+      "data": "6LYjXJSkxOzbQDzYEGbeCCaHGFEfd6iCCTwHUKnp23E="
     },
     "public": {
       "type": "Buffer",
-      "data": "QA6mrmN6/rvckF/4Wh4V61L8QHS/tRARksCz38XAS0M="
+      "data": "JgUIkaLAz55U7C47e68f75FHTjJKvGww/tponOtgwgw="
     }
   },
   "signedPreKey": {
     "keyPair": {
       "private": {
         "type": "Buffer",
-        "data": "gAcYU2bn3iiDYmLKmLudervq1cZK3SFs4dMKAQAgK1g="
+        "data": "SKUxpNtHxenysDk81nL3H+yPAX/mQ5rdurEZtxHMKHc="
       },
       "public": {
         "type": "Buffer",
-        "data": "27seLu0F2rSKtMzMqAqhYFZNHzHbT3zlBrAjogELN0Y="
+        "data": "eEsP4BzhpiIdw9UX4uKxLOha/EwRh1BmdiQxfebaCmc="
       }
     },
     "signature": {
       "type": "Buffer",
-      "data": "d7xlq5zHbSwY6UiVbr51UJPyPrTdv83qm5ZdbIyu0QiM3A6nEowbM/ELSkwo/yVSt/QgM2ajkcJL0hm6GY6CAg=="
+      "data": "IvvdR/Q5LSPhOeqmXcxkVgSDzPKgJ8b2YVQC0uXm3CxIB9XTKwocXXHLLgPa90DFVLSsPlL5C9Q7rJhD3IoSgA=="
     },
     "keyId": 1
   },
-  "registrationId": 55,
-  "advSecretKey": "zTRbfsLHx1W5uynKV9Y1yHBdqw2FwUDn4tVpA9A0UCs=",
+  "registrationId": 247,
+  "advSecretKey": "k7tirdWcKCdWpitnfdgGZA40zQgWBTbj1PQClNzC2TA=",
   "processedHistoryMessages": [],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
@@ -55,21 +55,24 @@
   "accountSettings": {
     "unarchiveChats": false
   },
-  "registered": true,
-  "pairingCode": "SC796Y2C",
-  "me": {
-    "id": "WAGWAN-XP.25767640752:5@s.whatsapp.net"
+  "registered": false,
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAgIBQgS"
   },
   "account": {
-    "details": "CPjKssQDEIfc4cwGGAEgACgA",
+    "details": "CPnKssQDELzr48wGGAEgACgA",
     "accountSignatureKey": "TSWY9bN2c7lum/RFkNSpwuFA3x6Tw0htKaZn1I+grHI=",
-    "accountSignature": "hPbH/ky29MZpsE59ZhjrIhHx6iW2Br3uojAR4OQwcW9eDPdNIu+gSpr1YHMRMTDXdn/2e8R/OYf23tUfsrNACg==",
-    "deviceSignature": "8MqGOfY4JbX1TDGlPGpW7sV6fF1GZO8eW2wDP6f0kDnhT+0V/kLjLj+pFvwg+o2oLic3Kf7R2rpIYi2lH2r1Aw=="
+    "accountSignature": "dIthvzBtxY56v82OWD6dPoa4g0UeDraQDs1cZqut2oFtob58HkbMnSpkAb77jMGMBf4atQGbSRXf0WHk+wNwDA==",
+    "deviceSignature": "S5HP86jDAfDsR+PUn9JxHGsWi7n4Y/iitxc5U5C00shFfUzDrOHbhrVXnrxoinJtpfj4RKbSyFJNRlopmYfujA=="
+  },
+  "me": {
+    "id": "WAGWAN-XP.25767640752:6@s.whatsapp.net"
   },
   "signalIdentities": [
     {
       "identifier": {
-        "name": "25767640752:5@s.whatsapp.net",
+        "name": "25767640752:6@s.whatsapp.net",
         "deviceId": 0
       },
       "identifierKey": {
@@ -79,9 +82,5 @@
     }
   ],
   "platform": "android",
-  "routingInfo": {
-    "type": "Buffer",
-    "data": "CAgIBQgS"
-  },
-  "lastAccountSyncTimestamp": 1771597323
+  "lastAccountSyncTimestamp": 1771632067
 }
